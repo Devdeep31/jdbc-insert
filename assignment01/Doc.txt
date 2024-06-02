@@ -1,0 +1,13 @@
+// write code to create a table
+Students with fields id, name,
+roll_no, subject, marks[0-100]
+// insert 5 sample datas to
+the table
+// Get student with more
+than 70 marks
+// JDBC
+// push code to github
+// share me the Repo link
+
+
+note user can only able to add marks between 0 to 100;
